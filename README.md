@@ -72,7 +72,7 @@ console.log("O Herói tem saldo de" + saldoFinal + "e está no nível de" + nive
 
 3. Abra o terminal e execute:
 
-        node heroi.js
+        node index.js
 
 ---
 
