@@ -61,7 +61,7 @@ switch (true) {
         nivel = "Imortal";
 }
 
-console.log("O Herói tem saldo de" +saldoFinal+ "e está no nível de" +nivel");
+console.log("O Herói tem saldo de" + saldoFinal + "e está no nível de" + nivel");
 ```
 ---
 
